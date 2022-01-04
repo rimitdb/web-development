@@ -6,3 +6,24 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+h1{
+    font-size: 50px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+span{
+    color: darksalmon;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient( 45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
